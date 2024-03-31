@@ -8,13 +8,13 @@ body, h1, p {
 
 /* Set font and background color */
 body {
-    font-family: Arial, sans-serif;
+    font-family: ibmplexserif, sans-;
     background-color: rgba(0, 0, 0, 0.5);
 }
 
 /* Style heading */
 h1 {
-        font-size: 24px;
+        font-size: 44px;
         font-weight: bold;
         color: white;
         text-align: center;
